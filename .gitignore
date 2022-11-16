@@ -12,6 +12,7 @@ speech/
 db/
 utils/
 test.py
+config.py
 # Distribution / packaging
 .Python
 build/
