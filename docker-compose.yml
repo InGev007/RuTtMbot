@@ -1,9 +1,9 @@
 version: "3.3"
 
 services:
-  RuTtMbot:
+  ruttmbot:
     build: ./
-    image: RuTtMbot:latest
+    image: ruttmbot:latest
     restart: always
     volumes:
       - ./db/:/usr/src/app/db/
