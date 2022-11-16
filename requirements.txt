@@ -1,0 +1,6 @@
+translators
+aiogram
+aioschedule
+numpy
+sentence-transformers
+httpx
