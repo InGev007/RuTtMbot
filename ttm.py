@@ -5,7 +5,7 @@ import json
 import time
 import asyncio
 
-# my_class = Text_to_Music('ingev123@gmail.com')
+# my_class = Text_to_Music('You@email.com')
 # prompt = 'My love is break' #@param {type:"string"}
 # duration = 360 #@param {type:"number"}
 # loop = False #@param {type:"boolean"}
